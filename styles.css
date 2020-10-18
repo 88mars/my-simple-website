@@ -1,0 +1,25 @@
+p {
+    font-size: 18px;
+}
+
+header {
+    text-align: center;
+    color:#ffffff;
+    background-color:#A52A2A;
+}
+
+footer {
+    font-size: 20px;
+    text-align: center;
+    color:#ffffff;
+    background-color:#000000;
+}
+
+.first {
+    border-style: dashed;
+    
+}
+
+div {
+    text-align: center;
+}
